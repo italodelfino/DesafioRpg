@@ -1,0 +1,15 @@
+C:\Git\csharp-exemplo\DesafioRpg\bin\Debug\net6.0\DesafioRpg.exe
+C:\Git\csharp-exemplo\DesafioRpg\bin\Debug\net6.0\DesafioRpg.deps.json
+C:\Git\csharp-exemplo\DesafioRpg\bin\Debug\net6.0\DesafioRpg.runtimeconfig.json
+C:\Git\csharp-exemplo\DesafioRpg\bin\Debug\net6.0\DesafioRpg.dll
+C:\Git\csharp-exemplo\DesafioRpg\bin\Debug\net6.0\DesafioRpg.pdb
+C:\Git\csharp-exemplo\DesafioRpg\obj\Debug\net6.0\DesafioRpg.csproj.AssemblyReference.cache
+C:\Git\csharp-exemplo\DesafioRpg\obj\Debug\net6.0\DesafioRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\csharp-exemplo\DesafioRpg\obj\Debug\net6.0\DesafioRpg.AssemblyInfoInputs.cache
+C:\Git\csharp-exemplo\DesafioRpg\obj\Debug\net6.0\DesafioRpg.AssemblyInfo.cs
+C:\Git\csharp-exemplo\DesafioRpg\obj\Debug\net6.0\DesafioRpg.csproj.CoreCompileInputs.cache
+C:\Git\csharp-exemplo\DesafioRpg\obj\Debug\net6.0\DesafioRpg.dll
+C:\Git\csharp-exemplo\DesafioRpg\obj\Debug\net6.0\refint\DesafioRpg.dll
+C:\Git\csharp-exemplo\DesafioRpg\obj\Debug\net6.0\DesafioRpg.pdb
+C:\Git\csharp-exemplo\DesafioRpg\obj\Debug\net6.0\DesafioRpg.genruntimeconfig.cache
+C:\Git\csharp-exemplo\DesafioRpg\obj\Debug\net6.0\ref\DesafioRpg.dll
